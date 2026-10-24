@@ -17,7 +17,7 @@
   <table>
     <tr>
       <td>
-    <img wdith="25" src="https://i.imgur.com/I9nZyUU.gif"> put any text here
+     put any text here
       </td>
     </tr>
   </table>
