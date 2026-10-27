@@ -24,3 +24,5 @@
 
 <p align="center">${\textsf{\color{#FFFFF} Links}}$ 
 put your sp, ata or stuff here :]
+
+this readme is for github B00SF3R, do not copy or try to hvy inspo
